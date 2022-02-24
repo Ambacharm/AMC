@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscs on My New Hugo Site</title>
+    <link>http://example.org/misc/</link>
+    <description>Recent content in Miscs on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jan 2022 19:24:41 +0100</lastBuildDate><atom:link href="http://example.org/misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Syllabus</title>
+      <link>http://example.org/misc/syllabus/</link>
+      <pubDate>Wed, 26 Jan 2022 19:24:41 +0100</pubDate>
+      
+      <guid>http://example.org/misc/syllabus/</guid>
+      <description>Programme of Studies  We must explore each of the five &#39;axes d&#39;études&#39; of 1re this year, this is a requisite of the syllabus. We have already dealt with &#39;Production et circulation des savoirs&#39;, we need to decide what to study next. Here are propositions taken from two different coursebooks. It is your job to collectively decide what themes to work on. You must choose two &#39;axes d&#39;études&#39; for each &#39;thématique&#39;.</description>
+    </item>
+    
+    <item>
+      <title>Key</title>
+      <link>http://example.org/misc/key/</link>
+      <pubDate>Wed, 26 Jan 2022 18:46:18 +0100</pubDate>
+      
+      <guid>http://example.org/misc/key/</guid>
+      <description>table { font-family: arial, sans-serif; border-collapse: collapse; width: 100%; color: #3d4465; } td, th { border: 1px solid #5435c4; text-align: left; padding: 8px; } tr:nth-child(even) { background-color: #dddddd; }   Abbr. Explanation Example   vt Verb tense *Yesterday, I go to the swimming pool.   vf Verb form:The tense may be right but the form is wrong *She go to the swimming-pool on Mondays.   wf Word formation: part of speech, wrong prefix/suffix, or even plural errors.</description>
+    </item>
+    
+  </channel>
+</rss>

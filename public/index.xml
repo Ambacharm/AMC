@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Feb 2022 21:30:24 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Culture</title>
+      <link>http://example.org/art_3.0/culture/</link>
+      <pubDate>Wed, 23 Feb 2022 21:30:24 +0100</pubDate>
+      
+      <guid>http://example.org/art_3.0/culture/</guid>
+      <description>The MoMa The NYC Museum of Modern Art, situated in Middle Manhattan, opened in 1929 at the instigation of two ladies, Mrs Abby Aldrich Rockefeller and Mary Quinn Sullivan. It was the first museum dedicated to modern art in the USA back then. Little by little, the Moma gained international prominence by organising successful exhibitions of artists like Picasso, Edward Hopper, Whistler, Rothko, Walker Evans or Native American artists. It has now a very rich permanent collection of more than 200,000 works of modern and contemporary art.</description>
+    </item>
+    
+    <item>
+      <title>Dossier</title>
+      <link>http://example.org/art_3.0/dossier/</link>
+      <pubDate>Wed, 23 Feb 2022 18:25:09 +0100</pubDate>
+      
+      <guid>http://example.org/art_3.0/dossier/</guid>
+      <description> Art 3.0  Your task   </description>
+    </item>
+    
+    <item>
+      <title>Part two</title>
+      <link>http://example.org/art_3.0/creative/</link>
+      <pubDate>Wed, 23 Feb 2022 17:45:37 +0100</pubDate>
+      
+      <guid>http://example.org/art_3.0/creative/</guid>
+      <description>Technologies in the creative process  Computer-generated music   &#34;Its the screams of the damned.&#34; The eerie AI world of deepfake music.  Read the article on The Guardian   How AI-generated music is changing the way hits are made  Read the article    Technologies in the creative process  Technology and visual art Check out this page for information on David Hockney.
+        Your browser does not support the video tag.</description>
+    </item>
+    
+    <item>
+      <title>Part three</title>
+      <link>http://example.org/art_3.0/videogames/</link>
+      <pubDate>Wed, 23 Feb 2022 16:31:34 +0100</pubDate>
+      
+      <guid>http://example.org/art_3.0/videogames/</guid>
+      <description>The art of video games  Digital art Learn about the video game industry.
+   Still from the indie video game Whispering Willows, developed by Night Light interactive in 2014.
+   First issue of the magazine Imaginefx, January 2006.
+      The art of video games  World video game hall of fame      First issue of the magazine Imaginefx, January 2006.</description>
+    </item>
+    
+    <item>
+      <title>Part One</title>
+      <link>http://example.org/art_3.0/first/</link>
+      <pubDate>Wed, 23 Feb 2022 11:12:57 +0100</pubDate>
+      
+      <guid>http://example.org/art_3.0/first/</guid>
+      <description>When Technology Popularises Art  A - Movie screens vs mobile phone screens      Filmmakers shouldn&#39;t complain about people watching movies on smartphones.
+Headline of an article by James Vincent The Verge, May 1st, 2015     I would suggest, if you ever want to see one of my pictures - or most films - please, please don&#39;t don&#39;t look at it on a phone, please.</description>
+    </item>
+    
+    <item>
+      <title>When talk shows get political</title>
+      <link>http://example.org/talkshows/rbg/</link>
+      <pubDate>Sun, 13 Feb 2022 13:31:37 +0100</pubDate>
+      
+      <guid>http://example.org/talkshows/rbg/</guid>
+      <description>    When talk shows get political   Late night show      Ruth Bader Ginsburg - Mural NYC.   </description>
+    </item>
+    
+    <item>
+      <title>Voicing an opinion</title>
+      <link>http://example.org/talkshows/voice/</link>
+      <pubDate>Wed, 09 Feb 2022 12:57:37 +0100</pubDate>
+      
+      <guid>http://example.org/talkshows/voice/</guid>
+      <description>     Voicing an opinion  Find out why Jill Biden is invited.   Analyse what it shows to invite the wife of a presidential candidate to a talk show.   Comment on the attitudes of the show hosts and what it means for viewers.  Imagine the tweet of a viewer who complains that the show is biased.       </description>
+    </item>
+    
+    <item>
+      <title>Stars as hosts</title>
+      <link>http://example.org/talkshows/stars/</link>
+      <pubDate>Wed, 02 Feb 2022 16:00:42 +0100</pubDate>
+      
+      <guid>http://example.org/talkshows/stars/</guid>
+      <description>    Stars as talk show hosts.   Document A      Document B      </description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://example.org/talkshows/intro/</link>
+      <pubDate>Sat, 29 Jan 2022 15:50:32 +0100</pubDate>
+      
+      <guid>http://example.org/talkshows/intro/</guid>
+      <description>Talk shows: Information or Entertainement? Summary.pdf         Summary  Talk shows are an important feature of the US media landscape. They have established themselves as a legitimate source of information. Talk shows are not easily categorised because even the ones that position themselves primarily as comedy (late-night comedy shows) are also important forums of political discourse. Politically oriented talk shows are also dominated by prime time political analysis programming.</description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
+      <link>http://example.org/misc/syllabus/</link>
+      <pubDate>Wed, 26 Jan 2022 19:24:41 +0100</pubDate>
+      
+      <guid>http://example.org/misc/syllabus/</guid>
+      <description>Programme of Studies  We must explore each of the five &#39;axes d&#39;études&#39; of 1re this year, this is a requisite of the syllabus. We have already dealt with &#39;Production et circulation des savoirs&#39;, we need to decide what to study next. Here are propositions taken from two different coursebooks. It is your job to collectively decide what themes to work on. You must choose two &#39;axes d&#39;études&#39; for each &#39;thématique&#39;.</description>
+    </item>
+    
+    <item>
+      <title>Key</title>
+      <link>http://example.org/misc/key/</link>
+      <pubDate>Wed, 26 Jan 2022 18:46:18 +0100</pubDate>
+      
+      <guid>http://example.org/misc/key/</guid>
+      <description>table { font-family: arial, sans-serif; border-collapse: collapse; width: 100%; color: #3d4465; } td, th { border: 1px solid #5435c4; text-align: left; padding: 8px; } tr:nth-child(even) { background-color: #dddddd; }   Abbr. Explanation Example   vt Verb tense *Yesterday, I go to the swimming pool.   vf Verb form:The tense may be right but the form is wrong *She go to the swimming-pool on Mondays.   wf Word formation: part of speech, wrong prefix/suffix, or even plural errors.</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://example.org/wiki/folio/</link>
+      <pubDate>Wed, 26 Jan 2022 16:28:46 +0100</pubDate>
+      
+      <guid>http://example.org/wiki/folio/</guid>
+      <description>Build up a Portfolio Your Task Step 1 - Build up your speech.  Choose one of the issues studied in this unit: a) the role of editors, b) the importance of neutrality or c) the fight against disinformation. Choose 3 documents. One we have studied in the classroom, one from this page and one from your own research. All three must illustrate the issue chosen. Prepare your presentation: show how these documents relate to the topic you chose.</description>
+    </item>
+    
+    <item>
+      <title>Neutrality</title>
+      <link>http://example.org/wiki/neutrality/</link>
+      <pubDate>Wed, 26 Jan 2022 16:28:35 +0100</pubDate>
+      
+      <guid>http://example.org/wiki/neutrality/</guid>
+      <description>An Impossible Neutrality? A bias problem  Working towards a solution  -  Watch the video and define the issue presented -  Say why other studies on the gender gap seemed inaccurate to Amanda Menking - List the different reasons why there might be so few women editors on WP - Describe the solutions proposed to fix the gender gap on WP and say why the issue is so critical.</description>
+    </item>
+    
+    <item>
+      <title>Fakenews</title>
+      <link>http://example.org/wiki/fakenews/</link>
+      <pubDate>Wed, 26 Jan 2022 16:28:25 +0100</pubDate>
+      
+      <guid>http://example.org/wiki/fakenews/</guid>
+      <description>Combatting Fake News &#34;Wikipedia Founder Says Internet Users Are Adrift In The ‘Fake News’ Era&#34; (NPR, 2018). Your browser does not support the audio element.  Listen and sum up Jimmy Wales&#39;s opinion about the internet. Find out what is specific about the Wikipedia community according to Jimmy Wales. Discuss this statement: &#34;Aren&#39;t the people who are fighting for factual accuracy going to be forever outgunned?   &#34;There&#39;s a lot Wikipedia can teach us about fighting disinformation   Read the article and sum up Wikipedia&#39;s three strength in fighting disinformation.</description>
+    </item>
+    
+    <item>
+      <title>Obstacles</title>
+      <link>http://example.org/educ/obstacles/</link>
+      <pubDate>Wed, 26 Jan 2022 16:22:47 +0100</pubDate>
+      
+      <guid>http://example.org/educ/obstacles/</guid>
+      <description> Overcoming obstacles I Online Teaching in Rural India  II Australia&#39;s School of the Air   Access the script here Link to the actual website of this school </description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>http://example.org/educ/learning/</link>
+      <pubDate>Wed, 26 Jan 2022 16:17:22 +0100</pubDate>
+      
+      <guid>http://example.org/educ/learning/</guid>
+      <description> The Rise of Online Learning I National Center of Education Statistics   The future of education ?    II University for all University for all    </description>
+    </item>
+    
+    <item>
+      <title>Spreading knowledge</title>
+      <link>http://example.org/wiki/spreadingknowledge/</link>
+      <pubDate>Mon, 24 Jan 2022 20:23:51 +0100</pubDate>
+      
+      <guid>http://example.org/wiki/spreadingknowledge/</guid>
+      <description>Spreading Knowledge A popular yet controversial website   Trailer A    Access the script of the video here.
+ What happens to Scots Wikipedia now?  Wizards of Wikipedia Go a little further, click here.
+Trailer A      Your task  Write the profile of an editor for Wikipedia&#39;s contributors&#39; page. Option 1: Choose Roman or Steven Pruitt. Option 2: Imagine another editor.</description>
+    </item>
+    
+    <item>
+      <title>Trailerb</title>
+      <link>http://example.org/journalism/trailerb/</link>
+      <pubDate>Sat, 22 Jan 2022 14:28:22 +0100</pubDate>
+      
+      <guid>http://example.org/journalism/trailerb/</guid>
+      <description>The Pentagon Papers were top secret documents about US political and military involvment in Vietnam from 1945 to 1967. They were leaked to newspapers in 1971 and revealed that the US government had not been honest and that decisions about the Vietnam war had been made without the consent of congress. </description>
+    </item>
+    
+    <item>
+      <title>Trailera</title>
+      <link>http://example.org/journalism/trailera/</link>
+      <pubDate>Sat, 22 Jan 2022 14:28:16 +0100</pubDate>
+      
+      <guid>http://example.org/journalism/trailera/</guid>
+      <description>The Watergate scandal started when the Nixon administration tried to cover up a break-in at the Democratic National Comittee&#39;s office in 1972. The robbery took place at the Watergate complex in Washington, D.C. The burglary and other illegal acts were exposed in investigations carried out by the media with the help of a mysterious informant, &#34;Deep Throat&#34;. In the end, the scandal caused President Richard Nixon to resign.</description>
+    </item>
+    
+    <item>
+      <title>Trailers</title>
+      <link>http://example.org/journalism/trailers/</link>
+      <pubDate>Sat, 22 Jan 2022 14:07:31 +0100</pubDate>
+      
+      <guid>http://example.org/journalism/trailers/</guid>
+      <description>Trailers These are two different trailers. Student A will work with trailer A and student B with trailer B.
+  Watch your trailer and find out the names of the newspaper, the revelation of the investigation and the possible consequences for the reporters.   Read the culture tip that corresponds to your trailer. See if it confirms your guesses.   Culture tip Trailer A   Culture tip Trailer B     Share your information with your partner.</description>
+    </item>
+    
+    <item>
+      <title>Def</title>
+      <link>http://example.org/journalism/def/</link>
+      <pubDate>Sat, 08 Jan 2022 17:32:27 +0100</pubDate>
+      
+      <guid>http://example.org/journalism/def/</guid>
+      <description> Student A  Student B  Student C </description>
+    </item>
+    
+    <item>
+      <title>Invj</title>
+      <link>http://example.org/journalism/invj/</link>
+      <pubDate>Sat, 08 Jan 2022 17:31:59 +0100</pubDate>
+      
+      <guid>http://example.org/journalism/invj/</guid>
+      <description> Investigative Journalism Lecture Introductory Lecture     Extract </description>
+    </item>
+    
+  </channel>
+</rss>

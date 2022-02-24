@@ -1,0 +1,173 @@
+<nav id="sidebar">
+
+
+    <div id="dismiss">
+        <i class="fas fa-arrow-left"></i>
+    </div>
+
+    
+    <div class="sidebar-header">
+        <h3>AMC</h3>
+    </div>
+
+    <ul class="list-unstyled components">
+    
+
+       
+       
+        <li>
+            <a href="/index.html">HOME</a>
+        </li>
+       
+     
+
+        <li {{ if eq .Title "Syllabus" }}class="active"{{ end }}>
+            {{ range .Site.Pages }}
+            {{ if eq .Title "Syllabus" }}
+            <a href="{{ .RelPermalink }} ">SYLLABUS</a>
+            {{end}}
+            {{end}}
+        </li>
+
+        <li {{ if eq .Title "Key" }}class="active"{{ end }}>
+            
+            <a href="/misc/key">Correction Key</a>
+        </li>
+
+        <li {{ if eq .Title "Learning" }}class="active"{{ end }}
+        {{ if eq .Title "Obstacles" }}class="active"{{ end }}>
+            <a href="#flopSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">e-Educated?</a>
+            <ul class="collapse list-unstyled" id="flopSubmenu">
+                <li>
+                    <a href="/educ/learning">The Rise of Online Learning</a>
+                </li>
+                <li>
+                    <a href="/educ/obstacles">Overcoming obstacles</a>
+                </li>
+
+                
+            </ul>
+        </li>
+
+      
+
+        <li {{ if eq .Title "Spreading knowledge" }}class="active"{{ end }}
+        {{ if eq .Title "Neutrality" }}class="active"{{ end }}
+        {{ if eq .Title "Fakenews" }}class="active"{{ end }}
+        {{ if eq .Title "Portfolio" }}class="active"{{ end }}>
+            <a href="#wiki" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Wiki Verified </a>
+            <ul class="collapse list-unstyled" id="wiki">
+                <li>
+                    <a href="/wiki/spreadingknowledge">Spreading knowledge</a>
+                </li>
+
+                <li>
+                    <a href="/wiki/neutrality">An impossble neutrality</a>
+                </li>
+
+                <li>
+                    <a href="/wiki/fakenews">Combatting Fake News</a>
+                </li>
+
+                <li>
+                    <a href="/wiki/folio">Build up your portfolio</a>
+                </li>
+            </ul>
+        </li>
+
+
+
+
+
+
+        <li {{ if eq .Title "Invj" }}class="active"{{ end }}
+        {{ if eq .Title "Def" }}class="active"{{ end }}
+        {{ if eq .Title "Trailers" }}class="active"{{ end }}>
+            <a href="#ij" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Investigative</a>
+            <ul class="collapse list-unstyled" id="ij">
+                <li>
+                    <a href="/journalism/invj/">Lecture</a>
+                </li>
+                <li>
+                    <a href="/journalism/def">Definitions</a>
+                </li>
+                <li>
+                    <a href="/journalism/trailers/">Trailers</a>
+                </li>
+
+                
+            </ul>
+        </li>
+
+        <li {{ if eq .Title "Introduction" }}class="active"{{ end }}
+        {{ if eq .Title "Stars as hosts" }}class="active"{{ end }}
+        {{ if eq .Title "Voicing an opinion" }}class="active"{{ end }}
+        {{ if eq .Title "When talk shows get political" }}class="active"{{ end }}>
+            <a href="#ts" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Talk Shows</a>
+            <ul class="collapse list-unstyled" id="ts">
+                <li>
+                    <a href="/talkshows/intro">Introduction</a>
+                </li>
+                <li>
+                    <a href="/talkshows/stars">Stars as talk show hosts</a>
+                </li>
+                <li>
+                    <a href="/talkshows/voice">Voicing an opinion</a>
+                </li>
+                <li>
+                    <a href="/talkshows/rbg">Talk shows get political</a>
+                </li>
+            </ul>
+        </li>
+
+
+        <li {{ if eq .Title "Part One" }}class="active"{{ end }}
+        {{ if eq .Title "Part two" }}class="active"{{ end }}
+        {{ if eq .Title "Part three" }}class="active"{{ end }}
+        {{ if eq .Title "dossier" }}class="active"{{ end }}>
+            <a href="#Art" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Art 3.0</a>
+            <ul class="collapse list-unstyled" id="Art">
+              
+              <li>
+                  <a href="/art_3.0/first">When technology popularises art</a>
+              </li>
+              <li>
+                  <a href="/art_3.0/creative">Technologies in the creative process</a>
+              </li>
+               <li>
+                   <a href="/art_3.0/videogames">The art of video games</a>
+               </li>
+               <li>
+                   <a href="/art_3.0/dossier">Dossier</a>
+               </li>
+              
+            </ul>
+        </li>
+
+
+
+      
+
+
+
+<!--Horizontal line-->
+
+       
+        <li>
+            <a href="https://www.ldoceonline.com">Online Dictionary</a>
+        </li>
+       
+    </ul>
+
+    <ul class="list-unstyled CTAs">
+        <li>
+            <a href="mailto:stephane.jacquet@ac-creteil.fr" class="download">Email your teacher</a>
+        </li>
+
+        
+        <!-- <li>
+            <a href="https://www.dropbox.com/request/hsk77CO1LgcT6560sx0a" class="download">Dropbox</a>
+        </li> -->
+       
+    </ul>
+</nav>

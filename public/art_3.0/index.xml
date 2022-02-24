@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art_3.0s on My New Hugo Site</title>
+    <link>http://example.org/art_3.0/</link>
+    <description>Recent content in Art_3.0s on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Feb 2022 21:30:24 +0100</lastBuildDate><atom:link href="http://example.org/art_3.0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Culture</title>
+      <link>http://example.org/art_3.0/culture/</link>
+      <pubDate>Wed, 23 Feb 2022 21:30:24 +0100</pubDate>
+      
+      <guid>http://example.org/art_3.0/culture/</guid>
+      <description>The MoMa The NYC Museum of Modern Art, situated in Middle Manhattan, opened in 1929 at the instigation of two ladies, Mrs Abby Aldrich Rockefeller and Mary Quinn Sullivan. It was the first museum dedicated to modern art in the USA back then. Little by little, the Moma gained international prominence by organising successful exhibitions of artists like Picasso, Edward Hopper, Whistler, Rothko, Walker Evans or Native American artists. It has now a very rich permanent collection of more than 200,000 works of modern and contemporary art.</description>
+    </item>
+    
+    <item>
+      <title>Dossier</title>
+      <link>http://example.org/art_3.0/dossier/</link>
+      <pubDate>Wed, 23 Feb 2022 18:25:09 +0100</pubDate>
+      
+      <guid>http://example.org/art_3.0/dossier/</guid>
+      <description> Art 3.0  Your task   </description>
+    </item>
+    
+    <item>
+      <title>Part two</title>
+      <link>http://example.org/art_3.0/creative/</link>
+      <pubDate>Wed, 23 Feb 2022 17:45:37 +0100</pubDate>
+      
+      <guid>http://example.org/art_3.0/creative/</guid>
+      <description>Technologies in the creative process  Computer-generated music   &#34;Its the screams of the damned.&#34; The eerie AI world of deepfake music.  Read the article on The Guardian   How AI-generated music is changing the way hits are made  Read the article    Technologies in the creative process  Technology and visual art Check out this page for information on David Hockney.
+        Your browser does not support the video tag.</description>
+    </item>
+    
+    <item>
+      <title>Part three</title>
+      <link>http://example.org/art_3.0/videogames/</link>
+      <pubDate>Wed, 23 Feb 2022 16:31:34 +0100</pubDate>
+      
+      <guid>http://example.org/art_3.0/videogames/</guid>
+      <description>The art of video games  Digital art Learn about the video game industry.
+   Still from the indie video game Whispering Willows, developed by Night Light interactive in 2014.
+   First issue of the magazine Imaginefx, January 2006.
+      The art of video games  World video game hall of fame      First issue of the magazine Imaginefx, January 2006.</description>
+    </item>
+    
+    <item>
+      <title>Part One</title>
+      <link>http://example.org/art_3.0/first/</link>
+      <pubDate>Wed, 23 Feb 2022 11:12:57 +0100</pubDate>
+      
+      <guid>http://example.org/art_3.0/first/</guid>
+      <description>When Technology Popularises Art  A - Movie screens vs mobile phone screens      Filmmakers shouldn&#39;t complain about people watching movies on smartphones.
+Headline of an article by James Vincent The Verge, May 1st, 2015     I would suggest, if you ever want to see one of my pictures - or most films - please, please don&#39;t don&#39;t look at it on a phone, please.</description>
+    </item>
+    
+  </channel>
+</rss>

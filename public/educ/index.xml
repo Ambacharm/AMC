@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Educs on My New Hugo Site</title>
+    <link>http://example.org/educ/</link>
+    <description>Recent content in Educs on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jan 2022 16:22:47 +0100</lastBuildDate><atom:link href="http://example.org/educ/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obstacles</title>
+      <link>http://example.org/educ/obstacles/</link>
+      <pubDate>Wed, 26 Jan 2022 16:22:47 +0100</pubDate>
+      
+      <guid>http://example.org/educ/obstacles/</guid>
+      <description> Overcoming obstacles I Online Teaching in Rural India  II Australia&#39;s School of the Air   Access the script here Link to the actual website of this school </description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>http://example.org/educ/learning/</link>
+      <pubDate>Wed, 26 Jan 2022 16:17:22 +0100</pubDate>
+      
+      <guid>http://example.org/educ/learning/</guid>
+      <description> The Rise of Online Learning I National Center of Education Statistics   The future of education ?    II University for all University for all    </description>
+    </item>
+    
+  </channel>
+</rss>

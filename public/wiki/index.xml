@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wikis on My New Hugo Site</title>
+    <link>http://example.org/wiki/</link>
+    <description>Recent content in Wikis on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jan 2022 16:28:46 +0100</lastBuildDate><atom:link href="http://example.org/wiki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio</title>
+      <link>http://example.org/wiki/folio/</link>
+      <pubDate>Wed, 26 Jan 2022 16:28:46 +0100</pubDate>
+      
+      <guid>http://example.org/wiki/folio/</guid>
+      <description>Build up a Portfolio Your Task Step 1 - Build up your speech.  Choose one of the issues studied in this unit: a) the role of editors, b) the importance of neutrality or c) the fight against disinformation. Choose 3 documents. One we have studied in the classroom, one from this page and one from your own research. All three must illustrate the issue chosen. Prepare your presentation: show how these documents relate to the topic you chose.</description>
+    </item>
+    
+    <item>
+      <title>Neutrality</title>
+      <link>http://example.org/wiki/neutrality/</link>
+      <pubDate>Wed, 26 Jan 2022 16:28:35 +0100</pubDate>
+      
+      <guid>http://example.org/wiki/neutrality/</guid>
+      <description>An Impossible Neutrality? A bias problem  Working towards a solution  -  Watch the video and define the issue presented -  Say why other studies on the gender gap seemed inaccurate to Amanda Menking - List the different reasons why there might be so few women editors on WP - Describe the solutions proposed to fix the gender gap on WP and say why the issue is so critical.</description>
+    </item>
+    
+    <item>
+      <title>Fakenews</title>
+      <link>http://example.org/wiki/fakenews/</link>
+      <pubDate>Wed, 26 Jan 2022 16:28:25 +0100</pubDate>
+      
+      <guid>http://example.org/wiki/fakenews/</guid>
+      <description>Combatting Fake News &#34;Wikipedia Founder Says Internet Users Are Adrift In The ‘Fake News’ Era&#34; (NPR, 2018). Your browser does not support the audio element.  Listen and sum up Jimmy Wales&#39;s opinion about the internet. Find out what is specific about the Wikipedia community according to Jimmy Wales. Discuss this statement: &#34;Aren&#39;t the people who are fighting for factual accuracy going to be forever outgunned?   &#34;There&#39;s a lot Wikipedia can teach us about fighting disinformation   Read the article and sum up Wikipedia&#39;s three strength in fighting disinformation.</description>
+    </item>
+    
+    <item>
+      <title>Spreading knowledge</title>
+      <link>http://example.org/wiki/spreadingknowledge/</link>
+      <pubDate>Mon, 24 Jan 2022 20:23:51 +0100</pubDate>
+      
+      <guid>http://example.org/wiki/spreadingknowledge/</guid>
+      <description>Spreading Knowledge A popular yet controversial website   Trailer A    Access the script of the video here.
+ What happens to Scots Wikipedia now?  Wizards of Wikipedia Go a little further, click here.
+Trailer A      Your task  Write the profile of an editor for Wikipedia&#39;s contributors&#39; page. Option 1: Choose Roman or Steven Pruitt. Option 2: Imagine another editor.</description>
+    </item>
+    
+  </channel>
+</rss>

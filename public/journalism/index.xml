@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journalisms on My New Hugo Site</title>
+    <link>http://example.org/journalism/</link>
+    <description>Recent content in Journalisms on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jan 2022 14:28:22 +0100</lastBuildDate><atom:link href="http://example.org/journalism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trailerb</title>
+      <link>http://example.org/journalism/trailerb/</link>
+      <pubDate>Sat, 22 Jan 2022 14:28:22 +0100</pubDate>
+      
+      <guid>http://example.org/journalism/trailerb/</guid>
+      <description>The Pentagon Papers were top secret documents about US political and military involvment in Vietnam from 1945 to 1967. They were leaked to newspapers in 1971 and revealed that the US government had not been honest and that decisions about the Vietnam war had been made without the consent of congress. </description>
+    </item>
+    
+    <item>
+      <title>Trailera</title>
+      <link>http://example.org/journalism/trailera/</link>
+      <pubDate>Sat, 22 Jan 2022 14:28:16 +0100</pubDate>
+      
+      <guid>http://example.org/journalism/trailera/</guid>
+      <description>The Watergate scandal started when the Nixon administration tried to cover up a break-in at the Democratic National Comittee&#39;s office in 1972. The robbery took place at the Watergate complex in Washington, D.C. The burglary and other illegal acts were exposed in investigations carried out by the media with the help of a mysterious informant, &#34;Deep Throat&#34;. In the end, the scandal caused President Richard Nixon to resign.</description>
+    </item>
+    
+    <item>
+      <title>Trailers</title>
+      <link>http://example.org/journalism/trailers/</link>
+      <pubDate>Sat, 22 Jan 2022 14:07:31 +0100</pubDate>
+      
+      <guid>http://example.org/journalism/trailers/</guid>
+      <description>Trailers These are two different trailers. Student A will work with trailer A and student B with trailer B.
+  Watch your trailer and find out the names of the newspaper, the revelation of the investigation and the possible consequences for the reporters.   Read the culture tip that corresponds to your trailer. See if it confirms your guesses.   Culture tip Trailer A   Culture tip Trailer B     Share your information with your partner.</description>
+    </item>
+    
+    <item>
+      <title>Def</title>
+      <link>http://example.org/journalism/def/</link>
+      <pubDate>Sat, 08 Jan 2022 17:32:27 +0100</pubDate>
+      
+      <guid>http://example.org/journalism/def/</guid>
+      <description> Student A  Student B  Student C </description>
+    </item>
+    
+    <item>
+      <title>Invj</title>
+      <link>http://example.org/journalism/invj/</link>
+      <pubDate>Sat, 08 Jan 2022 17:31:59 +0100</pubDate>
+      
+      <guid>http://example.org/journalism/invj/</guid>
+      <description> Investigative Journalism Lecture Introductory Lecture     Extract </description>
+    </item>
+    
+  </channel>
+</rss>

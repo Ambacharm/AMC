@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talkshows on My New Hugo Site</title>
+    <link>http://example.org/talkshows/</link>
+    <description>Recent content in Talkshows on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Feb 2022 13:31:37 +0100</lastBuildDate><atom:link href="http://example.org/talkshows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When talk shows get political</title>
+      <link>http://example.org/talkshows/rbg/</link>
+      <pubDate>Sun, 13 Feb 2022 13:31:37 +0100</pubDate>
+      
+      <guid>http://example.org/talkshows/rbg/</guid>
+      <description>    When talk shows get political   Late night show      Ruth Bader Ginsburg - Mural NYC.   </description>
+    </item>
+    
+    <item>
+      <title>Voicing an opinion</title>
+      <link>http://example.org/talkshows/voice/</link>
+      <pubDate>Wed, 09 Feb 2022 12:57:37 +0100</pubDate>
+      
+      <guid>http://example.org/talkshows/voice/</guid>
+      <description>     Voicing an opinion  Find out why Jill Biden is invited.   Analyse what it shows to invite the wife of a presidential candidate to a talk show.   Comment on the attitudes of the show hosts and what it means for viewers.  Imagine the tweet of a viewer who complains that the show is biased.       </description>
+    </item>
+    
+    <item>
+      <title>Stars as hosts</title>
+      <link>http://example.org/talkshows/stars/</link>
+      <pubDate>Wed, 02 Feb 2022 16:00:42 +0100</pubDate>
+      
+      <guid>http://example.org/talkshows/stars/</guid>
+      <description>    Stars as talk show hosts.   Document A      Document B      </description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://example.org/talkshows/intro/</link>
+      <pubDate>Sat, 29 Jan 2022 15:50:32 +0100</pubDate>
+      
+      <guid>http://example.org/talkshows/intro/</guid>
+      <description>Talk shows: Information or Entertainement? Summary.pdf         Summary  Talk shows are an important feature of the US media landscape. They have established themselves as a legitimate source of information. Talk shows are not easily categorised because even the ones that position themselves primarily as comedy (late-night comedy shows) are also important forums of political discourse. Politically oriented talk shows are also dominated by prime time political analysis programming.</description>
+    </item>
+    
+  </channel>
+</rss>
